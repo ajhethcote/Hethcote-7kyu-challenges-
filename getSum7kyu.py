@@ -1,8 +1,8 @@
 #Title of the kata
-    #
+    #Beginner Series #3 Sum of Numbers
 
 #Link to the kata on Codewars:
-    #
+    #https://www.codewars.com/kata/55f2b110f61eb01779000053/train/python
 
 #Your solution code:
     #As seen below.
